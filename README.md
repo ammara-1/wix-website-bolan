@@ -14,14 +14,14 @@ This website was designed to establish a credible digital presence.
 - Integrated contact forms for lead generation
 - Ensured consistent branding and SEO fundamentals
 
-## 🔧 Tools & Platforms
+## Tools & Platforms
 - **Wix Editor**
 - **Wix Forms**
 - **Wix SEO Tools**
 - **Responsive Web Design Techniques**
 - **Browser-based Testing (Chrome, Edge)**
 
-## 🖼️ Website Preview
+## Website Preview
 
 ### Homepage
 ![Homepage](./Screenshots/Home.png)
