@@ -1,4 +1,4 @@
-# wix-website-bolan
+# wix-website-project
 Live website: [https://www.bolan-me.com/]
 
 ## Project Overview
@@ -35,10 +35,10 @@ This website was designed to establish a credible digital presence.
 ### Contact Page
 ![Contact](./Screenshots/Contact.png)
 
-## 📍 Live URL
+## Live URL
 Visit the live website at:  
 ➡️ [www.bolan-me.com](https://www.bolan-me.com)
 
-## 📬 Contact
+## Contact
 For collaboration or custom Wix websites, feel free to reach out!  
 **Ammara | Web Designer & Digital Consultant**
