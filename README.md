@@ -24,16 +24,16 @@ This website was designed to establish a credible digital presence.
 ## 🖼️ Website Preview
 
 ### Homepage
-![Homepage](./screenshots/homepage.png)
+![Homepage](./Screenshots/Home.png)
 
 ### About Us
-![About Us](./screenshots/about-us.png)
+![About Us](./Screenshots/About.png)
 
 ### Services
-![Services](./screenshots/services.png)
+![Services](./Screenshots/Services.png)
 
 ### Contact Page
-![Contact](./screenshots/contact.png)
+![Contact](./Screenshots/Contact.png)
 
 ## 📍 Live URL
 Visit the live website at:  
